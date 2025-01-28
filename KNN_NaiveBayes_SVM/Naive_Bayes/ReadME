@@ -1,0 +1,4 @@
+Naive Bayes Classifier Types
+
+MultinimialNB - For Descrete Data
+GaussianNB - For Continuous Data
