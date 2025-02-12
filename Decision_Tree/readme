@@ -1,1 +1,21 @@
+Problem Statement
 
+One of the organizations looking to segregate the individual based on the income range so that they can leverage the information for their business needs. 
+In this case study, we need to classify if the individual belongs to a salary range of >50K or <=50K. We need to work on the decision tree algorithm and perform the tasks.
+
+
+Data Dictionary
+
+Age - Age of the individual
+Workclass - Work class of the individual
+Fnlwgt - The continuous variable fnlwgt represents final weight, which is the number of units in the target population that the responding unit represents
+Education - Education of the individual
+Education_Num - Education number of the individual
+MaritalStatus - Marital status of the individual
+Occupation - Occupation of an individual
+Relationship - Relationship of an individual
+Race - Race of an individual
+Gender - Gender of an individual
+Capital_Gain - Capital_Gain of an individual
+Capital_Loss - Capital_Loss of an individual
+HoursPerWeek - HoursPerWeek individual works
